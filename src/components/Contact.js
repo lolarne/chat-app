@@ -15,7 +15,6 @@ function Contact(props){
         </div>
     )
 }
-
 Contact.propTypes = {
     avatar: PropTypes.string.isRequired,
     name: PropTypes.string.isRequired,
