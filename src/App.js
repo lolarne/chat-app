@@ -7,17 +7,17 @@ function App() {
       <Contact
       name="ana Owens"
       avatar="https://randomuser.me/api/portraits/women/32.jpg"
-      status= {true}
+      state= {true}
       />
       <Contact
       name="ana Owens"
       avatar="https://randomuser.me/api/portraits/women/12.jpg"
-      status= {false}
+      state= {false}
       />
       <Contact
       name="Daryl Rhodes"
       avatar="https://randomuser.me/api/portraits/men/46.jpg"
-      status= {true}
+      state= {true}
       />
     </div>
   );
